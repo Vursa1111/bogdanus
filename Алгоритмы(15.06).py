@@ -19,7 +19,10 @@ def strcounter(s):      #O
     for sym,count in syms_counter.items():
         print(sym,count)
 
-strcounter('adcnra')
+strcounter('adcnra'
+
+
+print('изменение')
 
 
 
